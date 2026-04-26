@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detector",
+  "description": "A high-precision news verification tool powered by Gemini AI to classify headlines and articles as real or fake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
